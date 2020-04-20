@@ -1,6 +1,20 @@
-The above task is done using Xampp server.
+The above task is deployed using a Xampp server.
 it contains:
-1) Login : A html form to login as an admin
+1) Login : An html form to login as an admin
            A php script to validate the credentials
 2) Signup : An Html form to new admin signup
             A php script to ensure no duplication of username
+3) Admin Portal: An Html and php script runs to fetch all existing usernames and they are displayed in a drop-down menu
+                 A delete button deletes the selected user credentials from the database
+                 A log out buttons takes you out of the session
+                 
+Technology Used-
+Front-end is implemented on Html and CSS only
+Back-end runs over Xampp server (locally hosted) using a Mysql Database table( A single table named 'algoadmin' is used here)
+PHP is used to validate all the HTML pages
+
+NOTE:
+1-No background images are used.
+2-No screenshots of output are attached( can be added if needed)
+3-Use of low-Styling
+                 
