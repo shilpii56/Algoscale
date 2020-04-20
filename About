@@ -1,0 +1,6 @@
+The above task is done using Xampp server.
+it contains:
+1) Login : A html form to login as an admin
+           A php script to validate the credentials
+2) Signup : An Html form to new admin signup
+            A php script to ensure no duplication of username
